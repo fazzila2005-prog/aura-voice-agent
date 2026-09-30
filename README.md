@@ -291,9 +291,9 @@ TODO: https://aura-voice-agent-byl00gh2v-fazzila.vercel.app/
 GitHub Repository
 TODO: https://github.com/fazzila2005-prog/aura-voice-agent
 Demo Video
-TODO: Add 3–5 minute demo video URL
+TODO: https://drive.google.com/file/d/1EC9EAN-ZL_nR1a3xsVZm8t8v5Nce8TFb/view?usp=drive_link
 LinkedIn
-TODO: Add LinkedIn profile URL
+TODO: www.linkedin.com/in/fazzila-ghanchi-325b862b9
 16. Demo
 
 The demonstration covers:
