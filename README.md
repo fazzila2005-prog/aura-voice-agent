@@ -248,7 +248,7 @@ GEMINI_API_KEY=your_gemini_api_key_here
 
 The .env.local file should never be committed to GitHub.
 
-A .env.example file is included in the repository as a template.
+For security, the Gemini API key is configured locally using `.env.local` and is not committed to the repository.
 
 Run locally
 npm run dev
@@ -260,7 +260,7 @@ http://localhost:3000
 Allow microphone access when prompted.
 
 13. Environment Variables
-Variable	Purpose
+Variable	    Purpose
 GEMINI_API_KEY	API key used by the Gemini backend integration
 
 
@@ -287,9 +287,9 @@ At that scale, I would separate the application into more independent services a
 The application is intended to be publicly deployed so that evaluators can open the application and test the voice agent directly.
 
 Public Application
-TODO: Add deployed application URL
+TODO: https://aura-voice-agent-byl00gh2v-fazzila.vercel.app/
 GitHub Repository
-TODO: Add GitHub repository URL
+TODO: https://github.com/fazzila2005-prog/aura-voice-agent
 Demo Video
 TODO: Add 3–5 minute demo video URL
 LinkedIn
